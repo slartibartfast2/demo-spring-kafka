@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: demo-spring-kafka
+  kafka:
+    bootstrap-servers: localhost:19092
+server:
+  port: 8095
